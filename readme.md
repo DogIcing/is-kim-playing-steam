@@ -8,7 +8,7 @@ So, lo and behold, here's one of the most useless APIs for your entertainment (o
 
 ## 🔥 API Usage
 
-**Base URL:** `is-kim-playing-steam.railway.app`
+**Base URL:** `is-kim-playing-steam.up.railway.app`
 
 **Method:** `GET`
 
