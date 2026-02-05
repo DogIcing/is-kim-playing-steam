@@ -55,7 +55,8 @@ app.get('/', async (req, res) => {
 
     // Respond & choose a random message
     res.send({
-        online, lastSeen,
+        online,
+        lastSeen: lastSeen ?? 'unknown',
         message: online ? randomFromArray([
             // Online messages
             'Even dictators need a break sometimes',
